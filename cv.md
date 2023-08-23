@@ -5,15 +5,15 @@
 - **Email:** salehkhaled.dev@gmail.com
 - **Phone:** (+961) 76071153
 - **LinkedIn:** [Khaled Saleh](https://www.linkedin.com/in/khaled-saleh-955174218)
-- **GitHub:** [khaledsaleh07](https://github.com/khaledsaleh07)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
 
 ## Summary
 Junior Web Developer with a passion for creating responsive and visually appealing web applications. Proficient in HTML, CSS, and JavaScript. Eager to contribute my skills to a dynamic team and continue learning and growing as a developer.
 
 ## Education
 - **B.S. in Computer Science**
-  - Lebanese Unoversity
-  - Graduated: May 2021
+  - Your University
+  - Graduated: Month Year
 
 ## Skills
 - Front-End Development:
@@ -23,9 +23,9 @@ Junior Web Developer with a passion for creating responsive and visually appeali
 - Version Control:
   - Git, GitHub
 - Web Design Tools:
-  - Figma
+  - Adobe Photoshop, Figma
 - Basic Back-End Knowledge:
-  - Node.js, Express.js. Python, PHP
+  - Node.js, Express.js
 - Problem Solving and Algorithms
 
 ## Projects
